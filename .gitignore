@@ -1,0 +1,15 @@
+# 忽略所有文件和目录
+
+
+# 但是包含 docs 目录和 README.md 文件
+
+src/
+node_modules/
+
+.idea/
+public/
+package.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+yarn.lock
